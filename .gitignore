@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+slurm*
+venv*
+*set_variables.sh
+eBooks/*
